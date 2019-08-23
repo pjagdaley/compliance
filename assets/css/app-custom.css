@@ -1,0 +1,138 @@
+.tp-0 {
+  top: 0px !important;
+}
+
+.margin-tp-0 {
+  margin-top: 0px !important;
+}
+
+.margin-bt-0 {
+  margin-bottom: 0px !important;
+}
+
+.padding-tp-0 {
+  padding-top: 0px !important;
+}
+
+.padding-bt-0 {
+  padding-bottom: 0px !important;
+}
+
+.margin-tp-5 {
+  margin-top: 5px !important;
+}
+
+.margin-tp-10 {
+  margin-top: 10px !important;
+}
+
+.margin-tp-15 {
+  margin-top: 15px !important;
+}
+
+.margin-tp-20 {
+  margin-top: 20px !important;
+}
+
+.margin-bt-15 {
+  margin-bottom: 15px !important;
+}
+
+.margin-bt-20 {
+  margin-bottom: 20px !important;
+}
+
+.margin-bt-30 {
+  margin-bottom: 30px !important;
+}
+
+.margin-bt-40 {
+  margin-bottom: 40px !important;
+}
+
+.margin-tp-30 {
+  margin-top: 30px !important;
+}
+
+.margin-rt-5 {
+  margin-right: 5px;
+}
+
+.margin-rt-10 {
+  margin-right: 10px;
+}
+
+.margin-lt--15 {
+  margin-left: -15px;
+}
+
+.margin-rt--15 {
+  margin-right: -15px;
+}
+
+.margin-rt-15 {
+  margin-right: 15px;
+}
+
+.margin-lt-15 {
+  margin-left: 15px;
+}
+
+/*Form*/
+.forget-pass {
+  font-size: 13px;
+  margin-top: 3px;
+}
+
+.card-header {
+  border-bottom: 1px solid #eee;
+}
+
+.high {
+  background: #FFB74D;
+  color: #fff;
+}
+
+.vhigh {
+  background: #f44336;
+  color: #fff;
+}
+
+.low {
+  background: #81C784;
+  color: #fff;
+}
+
+.action-btn {
+  min-width: 100px;
+}
+
+.dropdown-profile {
+  margin-top: 13px;
+}
+
+.logo-inn {
+  height: 22px !important;
+  width: auto;
+  max-width: none;
+  margin: 22px 0 0 23px;
+}
+
+table {
+  font-size: 13px !important;
+}
+
+.drawer-header {
+  border-bottom: 1px solid #eee;
+}
+
+.bg-red-light {
+  background: #de4c32;
+}
+
+.border-bt {
+  border-bottom: 1px solid #ececec;
+  padding-bottom: 10px;
+}
+
+/*# sourceMappingURL=app-custom.css.map */
